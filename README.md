@@ -1,4 +1,4 @@
-# Portfolio — Next.js 14 Dark Theme
+# Sufyan-Portfolio
 
 https://sufyanuddin-portfolio.vercel.app/
 
