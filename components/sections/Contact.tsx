@@ -85,7 +85,7 @@ const handleSubmit = async (e: React.FormEvent) => {
             {[
               { icon: Mail, label: "Email", value: "Sufyanuddintaha@gmail.com", sub: "I reply within 24hrs" },
               { icon: MapPin, label: "Location", value: "Chicago, Illinois", sub: "Open to remote" },
-              { icon: Clock, label: "Availability", value: "Freelance / Full-time", sub: "Starting Q1 2025" },
+              { icon: Clock, label: "Availability", value: "Freelance / Full-time", sub: "Starting Q1 2026" },
             ].map(({ icon: Icon, label, value, sub }) => (
               <div key={label} className="flex gap-4 p-5 bg-card border border-border rounded-xl hover:border-accent/40 transition-colors">
                 <div className="p-2.5 bg-accent/10 border border-accent/20 rounded-xl h-fit">
