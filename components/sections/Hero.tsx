@@ -339,7 +339,7 @@ export default function Hero() {
             <Button variant="outline" size="lg" onClick={() => document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" })}>
               Get in Touch
             </Button>
-            <a href="/resume.pdf" download="Sufyan_Resume.pdf" className="flex items-center gap-2 px-6 py-3 border border-white/10 hover:border-accent/50 text-foreground rounded-full transition-all duration-200 hover:text-accent text-sm font-medium">
+            <a href="/resume.pdf" download="Sufyanuddin Taha,SDE(Resume-2026.pdf)" className="flex items-center gap-2 px-6 py-3 border border-white/10 hover:border-accent/50 text-foreground rounded-full transition-all duration-200 hover:text-accent text-sm font-medium">
              <Download size={16} />
                  Download Resume
                      </a>
