@@ -17,14 +17,7 @@ A blazing-fast, fully responsive portfolio website with 3D animations.
 - 💼 **Experience** — Timeline layout with alternating cards
 - 📬 **Contact** — Working contact form with validation
 
-## Getting Started
 
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000)
 
 ## Contact Form Setup
 
