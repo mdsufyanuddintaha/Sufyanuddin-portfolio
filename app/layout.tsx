@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   },
   keywords: ["developer", "fullstack", "react", "nextjs", "typescript"],
   openGraph: {
-    title: "YourName — Full-Stack Developer",
+    title: "Sufyan — Software Engineer",
     description: "Building high-performance web applications with modern technologies.",
     type: "website",
   },
